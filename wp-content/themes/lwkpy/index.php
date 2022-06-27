@@ -359,7 +359,7 @@ else
     </div>
     <?php  echo do_shortcode('[activecampaign form=1 css=1]');?>
 </div>
-<div class="mobile home-bottom-banners mt-5">
+<div class="mobile home-bottom-banners mt-4">
 
     <a href="<?php echo get_permalink( get_page_by_path( 'electric-handling-tools' ) );?>"
         class="fade-ele home-bottom-banner mobile ">
@@ -407,7 +407,7 @@ else
 </div>
 
 
-<div class="bottom-container mt-4">
+<div class="bottom-container mt-5">
     <div class="mt-4 text-center"><?php echo get_field('text_2');?></div>
 
     <?php
