@@ -462,7 +462,7 @@ endif;
 }
 
 form {
-    padding: 0 !important;
+    padding: 0 1rem !important;
 }
 
 #_form_1_submit {
