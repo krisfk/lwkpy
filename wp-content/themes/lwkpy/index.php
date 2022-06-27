@@ -352,7 +352,10 @@ else
 </div>
 
 
-<div>fdsf</div>
+<div class="mt-5">
+
+    <?php  echo do_shortcode('[activecampaign form=1 css=1]');?>
+</div>
 <div class="mobile home-bottom-banners mt-4">
 
     <a href="<?php echo get_permalink( get_page_by_path( 'electric-handling-tools' ) );?>"
