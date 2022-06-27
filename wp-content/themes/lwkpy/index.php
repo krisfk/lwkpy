@@ -460,6 +460,10 @@ endif;
 ._form-branding {
     display: none;
 }
+
+form {
+    padding: 0 !important;
+}
 </style>
 <script type="text/javascript">
 $(function() {
