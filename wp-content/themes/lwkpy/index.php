@@ -357,7 +357,7 @@ else
         <h3>加入我們的電郵群組<br>Join Our Mailing List</h3>
         <div>將每週更新提示和特別優惠直接發送您的收件箱。</div>
     </div>
-    <?php  echo do_shortcode('[activecampaign form=1 css=0]');?>
+    <?php  echo do_shortcode('[activecampaign form=1 css=1]');?>
 </div>
 <div class="mobile home-bottom-banners mt-4">
 
