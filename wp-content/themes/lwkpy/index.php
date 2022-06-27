@@ -353,7 +353,10 @@ else
 
 
 <div class="mt-5">
-
+    <div class="text-center">
+        <h1>加入我們的電郵群組<br>Join Our Mailing List</h1>
+        <div>將每週更新提示和特別優惠直接發送您的收件箱。</div>
+    </div>
     <?php  echo do_shortcode('[activecampaign form=1 css=1]');?>
 </div>
 <div class="mobile home-bottom-banners mt-4">
