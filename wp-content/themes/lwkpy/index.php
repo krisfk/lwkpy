@@ -465,12 +465,8 @@ form {
     padding: 0 !important;
 }
 
-#_form_62BA1EC756B93_ ._submit {
-    -webkit-appearance: none;
-    cursor: pointer;
-    font-family: arial, sans-serif;
-    font-size: 14px;
-    text-align: center;
+#_form_1_submit {
+
     background: #999999 !important;
     border: 0 !important;
     -moz-border-radius: 4px !important;
