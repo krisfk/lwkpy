@@ -17,7 +17,7 @@
 get_header();
 
 ?>
-
+test
 <div class="banner-div">
     <div class="container banner-container position-relative g-0">
 
@@ -384,8 +384,7 @@ else
 
     <a href="<?php echo get_permalink( get_page_by_path( 'luggage-first-aid' ) );?>"
         class="fade-ele home-bottom-banner mobile ">
-        <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/05/gip-mobile-Banner.jpg"
-            alt="">
+        <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/05/gip-mobile-Banner.jpg" alt="">
     </a>
 
     <a href="<?php echo get_site_url();?>/中古產品" class="fade-ele home-bottom-banner mobile ">
