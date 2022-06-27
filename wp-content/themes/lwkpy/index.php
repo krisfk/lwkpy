@@ -17,7 +17,7 @@
 get_header();
 
 ?>
-test
+
 <div class="banner-div">
     <div class="container banner-container position-relative g-0">
 
@@ -352,6 +352,7 @@ else
 </div>
 
 
+<div>fdsf</div>
 <div class="mobile home-bottom-banners mt-4">
 
     <a href="<?php echo get_permalink( get_page_by_path( 'electric-handling-tools' ) );?>"
