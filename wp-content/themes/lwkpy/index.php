@@ -456,6 +456,11 @@ endif;
 
 </div>
 </div>
+<style type="text/css">
+._form-branding {
+    display: none;
+}
+</style>
 <script type="text/javascript">
 $(function() {
 
