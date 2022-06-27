@@ -465,7 +465,7 @@ form {
     padding: 0 !important;
 }
 
-#_form_62BA1FD468FA9_ ._submit#_form_1_submit {
+#_form_1_submit {
 
     background: #999999 !important;
     border: 0 !important;
