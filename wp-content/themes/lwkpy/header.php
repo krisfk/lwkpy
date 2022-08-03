@@ -93,7 +93,7 @@
     </a>
 
 
-    <a href="mailto:leewaikee01@gmail.com" target="_blank" class="email-icon-a">
+    <a href="mailto:enquiry@leewaikee.com" target="_blank" class="email-icon-a">
         <img src="<?php echo get_template_directory_uri(); ?>/assets/images/email-icon.png" alt="">
     </a>
 
