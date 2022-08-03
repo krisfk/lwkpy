@@ -42,7 +42,9 @@
                 熱線：(852) 3422 3539 / 9738 1932 <br>
                 <div class="whatsapp-txt"> Whatsapp：(852) 9738 1932</div>
                 傳真：(852) 3422 3790<br>
-                電郵：leewaikee01@gmail.com
+                電郵： <a href="mailto:enquiry@leewaikee.com" target="_blank" style="color:#fff;">enquiry@leewaikee.com</a>
+
+
 
 
 
