@@ -49,11 +49,11 @@
 
 
             </div>
-            <div class="col-lg-2 col-md-12 col-sm-12 col-12 ">營業時間： <br>
+            <!-- <div class="col-lg-2 col-md-12 col-sm-12 col-12 ">營業時間： <br>
                 星期一至星期五 9:30 - 18:30<br>
                 星期六 10:00 - 17:00<br>
                 星期日及公眾假期休息
-            </div>
+            </div> -->
             <div class="col-lg-4 col-md-12 col-sm-12 col-12">
                 <!-- 總店<br> -->
                 <!-- 香港九龍油麻地新填地街226號地下 (油麻地港鐵站B2出口直行窩打老道口) -->
