@@ -80,4 +80,30 @@ $(function() {
     $('.mobile-btn').click(function() {
         $('.mobile-menu-div').animate({ left: '0%' });
     });
+
+    $('.black-top-nav a').mouseenter(function() {
+        if ($(window).width() > 1200) {
+            $('.black-top-submenu').clearQueue().fadeOut(0);
+
+            // if ($(this).hasClass('parent')) {
+            $(this).next('.black-top-submenu').slideDown(200);
+            // }
+        }
+    });
+
+    $('.black-top-submenu').mouseleave(function() {
+        if ($(window).width() > 1200) {
+            $('.mobile-menu-submenu').fadeOut(0);
+        }
+    });
+
+    $('.black-top-submenu').mouseenter(function() {
+        $(this).clearQueue().fadeIn(0);
+    });
+
+    $('.black-top-nav a').mouseleave(function() {
+        if ($(window).width() > 1200) {
+            $('.black-top-submenu').delay(500).fadeOut(0);
+        }
+    });
 });
