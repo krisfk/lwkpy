@@ -42,6 +42,66 @@ get_header();
     </div>
 </div>
 
+<div class="client-popup-outer">
+
+    <a href="javascript:void(0);" class="back-arrow-button">
+        &#8592;
+        返回
+
+    </a>
+    <div class="client-popup client-popup-" style="background:#808080;">
+
+        <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-banner.jpg" alt="">
+
+        <div class="container gx-0 p-5">
+
+            <div class="row gx-5">
+                <div class="col-6 ">
+                    <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-image-1@2x-80.jpg"
+                        alt="">
+
+                    <div class="text-center mt-5">
+                        <img class="popup-client-logo" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-logo.png"
+                            alt="">
+
+
+                    </div>
+                </div>
+                <div class="col-6 ">
+
+
+                    <div class="client-popup-text" style="color:#fff;">
+                        這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容。
+                    </div>
+                    <div class="row mt-5">
+
+                        <div class="col-6 mb-4">
+
+                            <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
+                                alt="">
+                        </div>
+                        <div class="col-6 mb-4">
+                            <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
+                                alt="">
+                        </div>
+                        <div class="col-6 mb-4">
+                            <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
+                                alt="">
+                        </div>
+                        <div class="col-6 mb-4">
+                            <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
+                                alt="">
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+</div>
+
 <div class="container products-list logo-list mb-5">
 
     <span class="breadcrumb mt-3">
@@ -52,65 +112,7 @@ get_header();
     </span>
 
 
-    <div class="client-popup-outer">
 
-        <a href="javascript:void(0);" class="back-arrow-button">
-            &#8592;
-            返回
-
-        </a>
-        <div class="client-popup" style="background:#808080;">
-
-            <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-banner.jpg" alt="">
-
-            <div class="container gx-0 p-5">
-
-                <div class="row gx-5">
-                    <div class="col-6 ">
-                        <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-image-1@2x-80.jpg"
-                            alt="">
-
-                        <div class="text-center mt-5">
-                            <img class="popup-client-logo"
-                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-logo.png" alt="">
-
-
-                        </div>
-                    </div>
-                    <div class="col-6 ">
-
-
-                        <div class="client-popup-text" style="color:#fff;">
-                            這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容這是假的文字內容，這是假的文字內容。
-                        </div>
-                        <div class="row mt-5">
-
-                            <div class="col-6 mb-4">
-
-                                <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
-                                    alt="">
-                            </div>
-                            <div class="col-6 mb-4">
-                                <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
-                                    alt="">
-                            </div>
-                            <div class="col-6 mb-4">
-                                <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
-                                    alt="">
-                            </div>
-                            <div class="col-6 mb-4">
-                                <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
-                                    alt="">
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-
-        </div>
-
-    </div>
 
     <div class="row mt-0 g-2">
 
