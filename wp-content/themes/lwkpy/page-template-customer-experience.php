@@ -56,7 +56,7 @@ get_header();
 
         <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-banner.jpg" alt="">
 
-        <div class="container gx-0">
+        <div class="container gx-0 p-5">
 
             <div class="row gx-5">
                 <div class="col-6 ">
