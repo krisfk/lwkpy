@@ -1944,6 +1944,8 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     width: max-content !important;
     height: auto !important;
     float: none;
+    color: #212529;
+    text-decoration: none;
 }
 
 .back-arrow-button:hover {
