@@ -1897,7 +1897,17 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 .plane-enlarge-foto {
     display: block;
     background: #b3b3b3;
-    max-width: 360px;
+    width: 80%;
+    min-height: 400px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.wing {
+    position: absolute;
+    bottom: -90px;
+    left: 50%;
+    transform: translate(-50%, 0px);
 }
 
 @media screen and (max-width: 1200px) {
