@@ -58,7 +58,7 @@ get_header();
             <div class="container gx-0 p-5">
 
                 <div class="row gx-5">
-                    <div class="col-6 ">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 ">
                         <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-image-1@2x-80.jpg"
                             alt="">
 
@@ -69,7 +69,7 @@ get_header();
 
                         </div>
                     </div>
-                    <div class="col-6 ">
+                    <div class="col-lg-6 col-md-6 col-sm-12 col-12 ">
 
 
                         <div class="client-popup-text" style="color:#fff;">
@@ -77,20 +77,20 @@ get_header();
                         </div>
                         <div class="row mt-5">
 
-                            <div class="col-6 mb-4">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-4">
 
                                 <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                     alt="">
                             </div>
-                            <div class="col-6 mb-4">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-4">
                                 <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                     alt="">
                             </div>
-                            <div class="col-6 mb-4">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-4">
                                 <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                     alt="">
                             </div>
-                            <div class="col-6 mb-4">
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-12 mb-4">
                                 <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                     alt="">
                             </div>
