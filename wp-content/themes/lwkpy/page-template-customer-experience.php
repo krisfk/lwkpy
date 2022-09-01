@@ -21,7 +21,7 @@ get_header();
     $img_url = wp_get_attachment_image_src(get_field('top_banner'), 'full')[0];
 
     ?>
-        <img class="w-100 banner-img pt-5 px-5 pb-0" src="<?php echo $img_url;?>" alt="">
+        <img class="w-100 banner-img " src="<?php echo $img_url;?>" alt="">
 
 
     </div>
@@ -52,7 +52,8 @@ get_header();
         </a>
         <div class="client-popup" style="background:#808080;">
 
-            <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-banner.jpg" alt="">
+            <img class="w-100 pt-5 px-5 pb-0" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-banner.jpg"
+                alt="">
 
             <div class="container gx-0 p-5">
 
