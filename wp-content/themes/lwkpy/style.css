@@ -1903,11 +1903,16 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     margin: 0 auto 200px auto;
 }
 
+.plane-enlarge-foto img {
+    width: 100%;
+    padding: 50px 50px 80px 50px;
+}
+
 .wing {
     position: absolute;
-    bottom: -43px;
+    bottom: -111px;
     left: 50%;
-    width: 284px;
+    width: 422px !important;
     transform: translate(-50%, 0px);
 }
 
