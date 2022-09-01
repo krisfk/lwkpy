@@ -561,7 +561,7 @@ echo'</li>';
                                         <li><a href="/stainless-steel/不銹鋼工程/">不銹鋼工程</a></li>
                                     </ul>
                                 </li>
-                                <li> <a href="javascript:void(0);" class="level-1">環保回收籠</a></li>
+                                <li> <a href="/recycle-logistics-cage/" class="level-1">環保回收籠</a></li>
                                 <li><a href="javascript:void(0);" class="level-1">智能電動搬運工具</a>
                                     <ul class="black-top-submenu">
 
@@ -571,10 +571,29 @@ echo'</li>';
                                         <li><a href="/electric-handling-tools/hercules/">Hercules 電動手推車</a></li>
                                     </ul>
                                 </li>
-                                <li><a href="javascript:void(0);" class="level-1">工業腳輪</a> </li>
-                                <li><a href="javascript:void(0);" class="level-1">不銹鋼產品</a> </li>
-                                <li><a href="javascript:void(0);" class="level-1">慈善環保計劃</a> </li>
-                                <li><a href="javascript:void(0);" class="level-1">中古產品</a> </li>
+                                <li><a href="javascript:void(0);" class="level-1">工業腳輪</a>
+
+                                    <ul class="black-top-submenu">
+                                        <li><a href="/logistics-tools/%e5%b7%a5%e6%a5%ad%e8%85%b3%e8%bc%aa/shc/">SHC</a>
+                                        </li>
+                                        <li><a
+                                                href="/logistics-tools/%e5%b7%a5%e6%a5%ad%e8%85%b3%e8%bc%aa/supo/">SUPO</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:void(0);" class="level-1">訂造產品</a>
+                                    <ul class="black-top-submenu">
+                                        <li class="cate-title">訂造產品</li>
+                                        <li><a href="/custom-made-products/">自選訂造</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="javascript:void(0);" class="level-1">慈善環保計劃</a>
+                                    <ul class="black-top-submenu">
+                                        <li class="cate-title">慈善環保計劃</li>
+                                        <li><a href="/trade-in/">Trade-In</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="/%E4%B8%AD%E5%8F%A4%E7%94%A2%E5%93%81/%22" class="level-1">中古產品</a> </li>
 
                             </ul>
 
