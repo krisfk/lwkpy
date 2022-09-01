@@ -56,16 +56,16 @@ get_header();
 
         <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-banner.jpg" alt="">
 
-        <div class="container">
+        <div class="container gx-0">
 
             <div class="row gx-0">
-                <div class="col-6">
+                <div class="col-6 p-5">
                     <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-image-1@2x-80.jpg"
                         alt="">
 
                     <img class="" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-logo.png" alt="">
                 </div>
-                <div class="col-6">
+                <div class="col-6  p-5">
 
 
                     <div class="client-popup-text" style="color:#fff;">
