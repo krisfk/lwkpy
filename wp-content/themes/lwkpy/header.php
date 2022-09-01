@@ -561,8 +561,16 @@ echo'</li>';
                                         <li><a href="/stainless-steel/不銹鋼工程/">不銹鋼工程</a></li>
                                     </ul>
                                 </li>
-                                <li> <a href="javascript:void(0);" class="level-1">環保收收籠</a></li>
-                                <li><a href="javascript:void(0);" class="level-1">智能電動搬運工具</a> </li>
+                                <li> <a href="javascript:void(0);" class="level-1">環保回收籠</a></li>
+                                <li><a href="javascript:void(0);" class="level-1">智能電動搬運工具</a>
+                                    <ul class="black-top-submenu">
+
+                                        <li><a href="/electric-handling-tools/xsto/">Xsto 電動樓梯車</a></li>
+                                        <li><a href="/electric-handling-tools/master-mover/">MasterMover 電動搬運設備</a></li>
+                                        <li><a href="/electric-handling-tools/zallys/">Zallys 電動搬運設備</a></li>
+                                        <li><a href="/electric-handling-tools/hercules/">Hercules 電動手推車</a></li>
+                                    </ul>
+                                </li>
                                 <li><a href="javascript:void(0);" class="level-1">工業腳輪</a> </li>
                                 <li><a href="javascript:void(0);" class="level-1">不銹鋼產品</a> </li>
                                 <li><a href="javascript:void(0);" class="level-1">慈善環保計劃</a> </li>
