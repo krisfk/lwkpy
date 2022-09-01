@@ -263,8 +263,8 @@ $(function() {
 
     $('.plane-foto-selecter-div').slick({
         infinite: true,
-        slidesToShow: 10,
-        slidesToScroll: 10,
+        slidesToShow: 8,
+        slidesToScroll: 8,
         dots: true,
         arrows: false,
         speed: 800,
