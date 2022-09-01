@@ -1946,6 +1946,14 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     float: none;
 }
 
+.back-arrow-button:hover {
+    width: max-content !important;
+    /* height: 125px; */
+    border: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
 @media screen and (max-width: 1200px) {
     .map-col {
         margin: 0 0 30px 0;
