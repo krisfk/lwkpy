@@ -1976,6 +1976,12 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 
 .black-top-nav a {
     color: #fff;
+    text-decoration: none;
+}
+
+.black-top-nav a:hover {
+    color: #fff;
+    text-decoration: none;
 }
 
 .black-top-nav ul li {
