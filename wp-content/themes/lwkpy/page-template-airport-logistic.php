@@ -41,10 +41,10 @@ get_header();
 
 <div class="container">
 
-    <div class="row">
+    <div class="row mt-5 gx-0">
 
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
-            <table class="plane-icon-table mt-4">
+            <table class="plane-icon-table ">
                 <tr>
                     <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-1.png"
                             alt=""></td>
@@ -61,7 +61,7 @@ get_header();
 
         </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-12 ">
-            <table class="plane-icon-table mt-4">
+            <table class="plane-icon-table ">
                 <tr>
 
                     <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-6.png"
