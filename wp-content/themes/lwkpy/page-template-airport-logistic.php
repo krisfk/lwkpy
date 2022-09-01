@@ -250,7 +250,8 @@ get_header();
     </div>
 
 
-    <img class="w-100 mt-5" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/fake-video-slick-slider.png" alt="">
+    <img class="w-100 mt-5 mb-5" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/fake-video-slick-slider.png"
+        alt="">
 
 
 
