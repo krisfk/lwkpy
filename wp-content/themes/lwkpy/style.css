@@ -1997,6 +1997,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 .black-top-submenu {
     background: #dec076;
     color: #000;
+    display: none;
     position: absolute;
     left: 0;
     top: 63px;
