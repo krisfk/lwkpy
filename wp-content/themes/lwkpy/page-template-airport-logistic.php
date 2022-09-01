@@ -222,7 +222,7 @@ get_header();
 
     <div class="enlarge-plane-foto-2 mx-auto">
 
-        <img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt="">
+        <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt="">
     </div>
 
 </div>
