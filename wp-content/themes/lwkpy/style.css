@@ -1888,6 +1888,11 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     display: block;
     border-radius: 1rem;
     overflow: hidden;
+    transition: 0.2s all;
+}
+
+.plane-album-fotos-table td a:hover {
+    opacity: 0.85;
 }
 
 .plane-album-fotos-table img {
