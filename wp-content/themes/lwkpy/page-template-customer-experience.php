@@ -258,6 +258,8 @@ $(function() {
 
         $('.logo-list').fadeOut(0);
 
+        $('html,body').scrollTop(0);
+
     })
     $('.back-arrow-button').click(function() {
         $('.popup-container').fadeOut(0);
