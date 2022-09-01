@@ -42,15 +42,15 @@ get_header();
     </div>
 </div>
 
-<div class="container popup-container mt-3">
+<div class="container popup-container">
     <div class="client-popup-outer">
 
-        <a href="javascript:void(0);" class="back-arrow-button">
+        <a href="javascript:void(0);" class="back-arrow-button  mt-3 mb-3">
             &#8592;
             返回
 
         </a>
-        <div class="client-popup client-popup-" style="background:#808080;">
+        <div class="client-popup" style="background:#808080;">
 
             <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-banner.jpg" alt="">
 
