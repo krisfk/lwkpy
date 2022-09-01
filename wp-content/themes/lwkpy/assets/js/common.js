@@ -81,7 +81,7 @@ $(function() {
         $('.mobile-menu-div').animate({ left: '0%' });
     });
 
-    $('.black-top-nav a').mouseenter(function() {
+    $('.level-1').mouseenter(function() {
         if ($(window).width() > 1200) {
             $('.black-top-submenu').clearQueue().fadeOut(0);
 
@@ -101,7 +101,7 @@ $(function() {
         $(this).clearQueue().fadeIn(0);
     });
 
-    $('.black-top-nav a').mouseleave(function() {
+    $('.level-1').mouseleave(function() {
         if ($(window).width() > 1200) {
             $('.black-top-submenu').delay(500).fadeOut(0);
         }
