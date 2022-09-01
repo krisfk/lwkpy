@@ -229,16 +229,22 @@ get_header();
     <div class="plane-foto-selecter-div-outer">
         <div class="plane-foto-selecter-div">
 
-            <div>1</div>
-            <div>2</div>
-            <div>3</div>
-            <div>4</div>
-            <div>5</div>
-            <div>6</div>
-            <div>7</div>
-            <div>8</div>
-            <div>9</div>
-            <div>10</div>
+            <?php
+        
+        for($i=0;$i<10;$i++)
+        {
+            ?>
+
+            <div>
+                <a href="javascript:void(0);"> <img class="w-100"
+                        src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt="">
+                </a>
+            </div>
+
+            <?php
+        }
+        ?>
+
 
         </div>
     </div>
@@ -257,8 +263,8 @@ $(function() {
 
     $('.plane-foto-selecter-div').slick({
         infinite: true,
-        slidesToShow: 3,
-        slidesToScroll: 3,
+        slidesToShow: 10,
+        slidesToScroll: 10,
         dots: true,
         arrows: false,
         speed: 800,
@@ -270,8 +276,8 @@ $(function() {
         responsive: [{
                 breakpoint: 1024,
                 settings: {
-                    slidesToShow: 3,
-                    slidesToScroll: 3,
+                    slidesToShow: 6,
+                    slidesToScroll: 6,
                     infinite: true,
                     dots: true
                 }
@@ -279,15 +285,15 @@ $(function() {
             {
                 breakpoint: 600,
                 settings: {
-                    slidesToShow: 2,
-                    slidesToScroll: 2
+                    slidesToShow: 4,
+                    slidesToScroll: 4
                 }
             },
             {
                 breakpoint: 480,
                 settings: {
-                    slidesToShow: 1,
-                    slidesToScroll: 1
+                    slidesToShow: 4,
+                    slidesToScroll: 4
                 }
             }
 
