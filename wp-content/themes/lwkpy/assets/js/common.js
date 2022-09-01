@@ -82,7 +82,7 @@ $(function() {
     });
 
     $('.level-1').mouseenter(function() {
-        if ($(window).width() > 1200) {
+        if ($(window).width() > 991) {
             $('.black-top-submenu').clearQueue().fadeOut(0);
 
             // if ($(this).hasClass('parent')) {
@@ -92,7 +92,7 @@ $(function() {
     });
 
     $('.black-top-submenu').mouseleave(function() {
-        if ($(window).width() > 1200) {
+        if ($(window).width() > 991) {
             $('.black-top-submenu').fadeOut(0);
         }
     });
@@ -102,7 +102,7 @@ $(function() {
     });
 
     $('.level-1').mouseleave(function() {
-        if ($(window).width() > 1200) {
+        if ($(window).width() > 991) {
             $('.black-top-submenu').delay(500).fadeOut(0);
         }
     });
