@@ -2004,6 +2004,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     z-index: 100;
     padding: 0;
     width: max-content;
+    min-width: 100%;
 }
 
 .black-top-submenu li {
@@ -2015,6 +2016,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     width: 100%;
     padding: 0.2rem 1rem;
     color: #000;
+    /* min-width: 100%; */
 }
 
 @media screen and (max-width: 1200px) {
