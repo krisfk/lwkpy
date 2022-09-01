@@ -93,7 +93,7 @@ $(function() {
 
     $('.black-top-submenu').mouseleave(function() {
         if ($(window).width() > 1200) {
-            $('.mobile-menu-submenu').fadeOut(0);
+            $('.black-top-submenu').fadeOut(0);
         }
     });
 
