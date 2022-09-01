@@ -58,7 +58,7 @@ get_header();
 
         <div class="container">
 
-            <div class="row">
+            <div class="row gx-0">
                 <div class="col-6">
                     <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-image-1@2x-80.jpg"
                         alt="">
