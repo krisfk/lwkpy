@@ -254,7 +254,13 @@ $(function() {
         var ele = $(this).attr("class").split(' ')[1];
 
         $('.popup-container').fadeOut(0);
-        $('.popup-container.popup-a-elem8').fadeIn(0);
+        $('.popup-container.' + ele).fadeIn(0);
+
+
+    })
+    $('.back-arrow-button').click(function() {
+        $('.popup-container').fadeOut(0);
+        $('.logo-list').fadeIn(0);
 
 
     })
