@@ -2020,6 +2020,12 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 }
 
 @media screen and (max-width: 1200px) {
+    .black-top-nav a {
+        color: #fff;
+        padding: 0.5rem;
+        text-decoration: none;
+        display: block;
+    }
     .map-col {
         margin: 0 0 30px 0;
     }
