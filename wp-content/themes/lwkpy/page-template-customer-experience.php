@@ -42,7 +42,7 @@ get_header();
     </div>
 </div>
 
-<div class="container popup-container ">
+<div class="container popup-container popup-container ">
     <div class="client-popup-outer">
 
         <a href="javascript:void(0);" class="back-arrow-button  mt-3 mb-3">
@@ -250,7 +250,11 @@ $(function() {
 
     $('.popup-a').click(function(e) {
         e.preventDefault();
+        $('.logo-list').fadeOut(0);
+        var ele = $(this).attr("class").split(' ')[1];
+        alert(ele);
     })
+
 
 })
 </script>
