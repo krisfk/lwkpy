@@ -144,7 +144,7 @@ get_header();
             </table>
         </div>
         <div class="col-6">
-            <table>
+            <table class="plane-album-fotos-table">
                 <tr>
                     <td>
                         <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
@@ -162,7 +162,7 @@ get_header();
             </table>
         </div>
         <div class="col-6">
-            <table>
+            <table class="plane-album-fotos-table">
                 <tr>
                     <td>
                         <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
@@ -180,7 +180,7 @@ get_header();
             </table>
         </div>
         <div class="col-6">
-            <table>
+            <table class="plane-album-fotos-table">
                 <tr>
                     <td>
                         <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
