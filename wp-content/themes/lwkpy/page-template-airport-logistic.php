@@ -122,7 +122,7 @@ get_header();
 
 <div class="container">
 
-    <div class="row">
+    <div class="row gx-0">
 
         <div class="col-6">
 
