@@ -39,25 +39,63 @@ get_header();
 <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-banner-top-2.jpg" alt="">
 
 
-<div class="container products-list">
+<div class="container">
 
-    <span class="breadcrumb mt-4">
+    <div class="row">
+
+        <div class="col-6">
+            <table>
+                <tr>
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-1.png"
+                            alt=""></td>
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-2.png"
+                            alt=""></td>
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-3.png"
+                            alt=""></td>
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-4.png"
+                            alt=""></td>
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-5.png"
+                            alt=""></td>
+                </tr>
+            </table>
+
+        </div>
+        <div class="col-6">
+            <table>
+                <tr>
+
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-6.png"
+                            alt=""></td>
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-7.png"
+                            alt=""></td>
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-8.png"
+                            alt=""></td>
+                    <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-9.png"
+                            alt=""></td>
+                </tr>
+            </table>
+
+        </div>
+    </div>
 
 
-        <?php echo get_field('breadcrumb'); ?>
+    <!-- <span class="breadcrumb mt-4">
 
 
-    </span>
+        <?php //echo get_field('breadcrumb'); ?>
 
-    <div class="row mt-0">
+
+    </span> -->
+
+    <!-- <div class="row mt-0">
 
         <div class="col-12"><?php echo get_field('text_content');?></div>
-    </div>
+    </div> -->
     <div class="row justify-content-center">
 
         <?php
 
-      echo get_the_content();
+// /      echo get_the_content();
 
 
 ?>
