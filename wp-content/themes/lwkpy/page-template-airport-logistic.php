@@ -218,6 +218,15 @@ get_header();
 
 </div>
 
+<div class="container">
+
+    <div class="enlarge-foto">
+
+        <img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt="">
+    </div>
+
+</div>
+
 
 
 
