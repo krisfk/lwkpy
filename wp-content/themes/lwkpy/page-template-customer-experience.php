@@ -78,20 +78,20 @@ get_header();
                     </div>
                     <div class="row mt-5">
 
-                        <div class="col-6 mb-3">
+                        <div class="col-6 mb-4">
 
                             <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                 alt="">
                         </div>
-                        <div class="col-6 mb-3">
+                        <div class="col-6 mb-4">
                             <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                 alt="">
                         </div>
-                        <div class="col-6 mb-3">
+                        <div class="col-6 mb-4">
                             <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                 alt="">
                         </div>
-                        <div class="col-6 mb-3">
+                        <div class="col-6 mb-4">
                             <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                 alt="">
                         </div>
