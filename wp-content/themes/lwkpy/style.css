@@ -1918,6 +1918,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 
 .plane-icon-table td {
     vertical-align: middle;
+    padding: 5px;
 }
 
 @media screen and (max-width: 991px) {
