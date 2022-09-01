@@ -1972,6 +1972,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 .black-top-nav {
     background: #444444;
     color: #000;
+    display: block;
 }
 
 .black-top-nav a {
@@ -2079,6 +2080,9 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 }
 
 @media screen and (max-width: 991px) {
+    .black-top-nav {
+        display: none;
+    }
     .h-banner-a {
         display: none !important;
     }
