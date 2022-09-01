@@ -88,21 +88,24 @@ get_header();
         <div class="row">
             <div class="col-4">
 
-                <div> <img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-icon-1.png" alt="">
+                <div class="text-center"> <img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-icon-1.png"
+                        alt="">
                 </div>
                 We provide airport ground support equipment, covering the civil and cargo airline industry. Our array of
                 products is recognized in quality and competitive pricing.
 
             </div>
             <div class="col-4">
-                <div><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-icon-2.png" alt="">
+                <div class="text-center"><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-icon-2.png"
+                        alt="">
                 </div>
 
                 We capitalize on our multi-cultural, creative and dynamic teamwork, to provide services
                 no matter where you are and whan you need.
             </div>
             <div class="col-4">
-                <div><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-icon-3.png" alt="">
+                <div class="text-center"><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-icon-3.png"
+                        alt="">
                 </div>
                 Head office in Hong Kong, We have branch office in Toronto, Ontario to cater our North
                 American business.
