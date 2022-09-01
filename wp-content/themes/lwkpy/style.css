@@ -974,6 +974,14 @@ footer {
     height: auto;
 }
 
+.slick-slide a {
+    transition: 0.2s all;
+}
+
+.slick-slide a:hover {
+    opacity: 0.85;
+}
+
 .home .banner-div .slick-slide img {
     opacity: 0;
 }
