@@ -1976,8 +1976,9 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 
 .black-top-nav a {
     color: #fff;
-    padding: 0 1rem 0 1rem;
+    padding: 1rem;
     text-decoration: none;
+    display: block;
 }
 
 .black-top-nav a:hover {
