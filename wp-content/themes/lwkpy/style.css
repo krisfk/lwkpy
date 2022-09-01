@@ -1905,7 +1905,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     width: 80%;
     /* min-height: 400px; */
     position: relative;
-    margin: 0 auto 0 auto;
+    margin: 0 auto 100px auto;
     padding: 0 0 20px 0;
 }
 
@@ -2069,6 +2069,15 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
         left: 50%;
         width: 222px !important;
         transform: translate(-50%, 0px);
+    }
+    .plane-enlarge-foto {
+        display: block;
+        background: #b3b3b3;
+        width: 80%;
+        /* min-height: 400px; */
+        position: relative;
+        margin: 0 auto 0px auto;
+        padding: 0 0 20px 0;
     }
 }
 
