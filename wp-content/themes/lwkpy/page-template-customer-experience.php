@@ -87,6 +87,14 @@ get_header();
                             <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
                                 alt="">
                         </div>
+                        <div class="col-6">
+                            <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
+                                alt="">
+                        </div>
+                        <div class="col-6">
+                            <img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-sq-img-1.jpg"
+                                alt="">
+                        </div>
                     </div>
 
                 </div>
