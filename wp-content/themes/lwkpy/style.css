@@ -1957,6 +1957,10 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     box-shadow: none !important;
 }
 
+.popup-container {
+    display: none;
+}
+
 @media screen and (max-width: 1200px) {
     .map-col {
         margin: 0 0 30px 0;
