@@ -120,7 +120,7 @@ get_header();
     </div>
 </div>
 
-<div class="container mt-lg-5 mt-md-5 mt-sm-3 mt-3">
+<div class="container mt-5">
 
     <div class="row gx-0">
 
@@ -200,7 +200,7 @@ get_header();
     </div>
 
 
-    <div class="text-center mt-5 mb-5">
+    <div class="text-center mt-lg-5 mt-md-5 mt-sm-3 mt-3 mb-5">
 
 
         <div class="plane-enlarge-foto positive-relative">
