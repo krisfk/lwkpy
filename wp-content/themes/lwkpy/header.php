@@ -541,6 +541,13 @@ echo'</li>';
                                 <li>
 
                                     <a href="javascript:void(0);">物流搬運設備</a>
+
+                                    <ul class="black-top-submenu">
+                                        <li><a href="/logistics-tools/logistics-cage/">物流籠車</a></li>
+                                        <li><a href="/logistics-tools/手推車/">手推車</a></li>
+                                        <li><a href="/logistics-tools/木板車/">木板車</a></li>
+                                        <li><a href="/logistics-tools/手拉車/">手拉車</a></li>
+                                    </ul>
                                 </li>
                                 <li> <a href="javascript:void(0);">行李喼維修</a>
                                 </li>
