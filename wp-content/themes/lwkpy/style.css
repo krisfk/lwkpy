@@ -1884,6 +1884,12 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     padding: 4px;
 }
 
+.plane-album-fotos-table td a {
+    display: block;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
 .plane-album-fotos-table img {
     width: 100%;
 }
