@@ -200,7 +200,7 @@ get_header();
     </div>
 
 
-    <div class="text-center mt-5">
+    <div class="text-center mt-5 mb-5">
 
 
         <div class="plane-enlarge-foto positive-relative">
