@@ -64,7 +64,8 @@ get_header();
                         alt="">
 
                     <div class="text-center mt-5">
-                        <img class="" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-logo.png" alt="">
+                        <img class="popup-client-logo" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/sf-logo.png"
+                            alt="">
 
 
                     </div>
