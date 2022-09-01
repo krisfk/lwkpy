@@ -129,34 +129,16 @@ get_header();
             <table class="plane-album-fotos-table">
                 <tr>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
-                    </td>
-                </tr>
-            </table>
-        </div>
-        <div class="col-6">
-            <table class="plane-album-fotos-table">
-                <tr>
-                    <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
-                    </td>
-                    <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
-                    </td>
-                    <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                 </tr>
             </table>
@@ -165,16 +147,16 @@ get_header();
             <table class="plane-album-fotos-table">
                 <tr>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                 </tr>
             </table>
@@ -183,16 +165,34 @@ get_header();
             <table class="plane-album-fotos-table">
                 <tr>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                     <td>
-                        <a href=""><img src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg"
-                                alt=""></a>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-6">
+            <table class="plane-album-fotos-table">
+                <tr>
+                    <td>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
+                    </td>
+                    <td>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
+                    </td>
+                    <td>
+                        <a href="javascript:void(0);"><img
+                                src="https://lwkpy.com.hk/wp-content/uploads/2022/09/Asset-1@2x-80.jpg" alt=""></a>
                     </td>
                 </tr>
             </table>
