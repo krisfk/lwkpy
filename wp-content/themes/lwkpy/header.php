@@ -536,7 +536,7 @@ echo'</li>';
                     <div class="black-top-nav m-0">
                         <div class="container">
 
-                            <ul class="m-0 p-0">
+                            <ul class="m-0 p-0 text-center">
 
                                 <li>
 
