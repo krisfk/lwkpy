@@ -44,7 +44,7 @@ get_header();
     <div class="row">
 
         <div class="col-6">
-            <table>
+            <table class="plane-icon-table">
                 <tr>
                     <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-1.png"
                             alt=""></td>
@@ -61,7 +61,7 @@ get_header();
 
         </div>
         <div class="col-6">
-            <table>
+            <table class="plane-icon-table">
                 <tr>
 
                     <td><img class="w-100" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/plane-logo-6.png"
