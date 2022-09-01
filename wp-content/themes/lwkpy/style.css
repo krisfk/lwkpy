@@ -2003,7 +2003,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     top: 63px;
     z-index: 100;
     padding: 0;
-    width: 100%;
+    width: max-content;
 }
 
 .black-top-submenu li {
