@@ -21,7 +21,7 @@ get_header();
     $img_url = wp_get_attachment_image_src(get_field('top_banner'), 'full')[0];
 
     ?>
-        <img class="w-100 banner-img" src="<?php echo $img_url;?>" alt="">
+        <img class="w-100 banner-img pt-5 px-5 pb-0" src="<?php echo $img_url;?>" alt="">
 
 
     </div>
