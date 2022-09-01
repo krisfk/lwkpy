@@ -200,6 +200,18 @@ get_header();
     </div>
 
 
+    <div class="text-center">
+
+
+        <div class="plane-enlarge-foto positive-relative">
+
+            <img class="wing" src="https://lwkpy.com.hk/wp-content/uploads/2022/09/wing.png" alt="">
+        </div>
+
+
+    </div>
+
+
 
 
 </div>
