@@ -226,7 +226,7 @@ get_header();
     </div>
 
 
-    <div class="plane-foto-selecter-div-outer mt-3">
+    <div class="plane-foto-selecter-div-outer mt-1">
         <div class="plane-foto-selecter-div">
 
             <?php
