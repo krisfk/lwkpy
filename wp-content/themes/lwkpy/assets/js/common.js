@@ -14,17 +14,15 @@ $(function() {
         $('#fb-customer-chat iframe').height(0);
     });
     $('.top-menu-ul .product-list-btn').mouseenter(function() {
-        $('.product-submenu-div').stop().fadeIn(300);
-
-        $('.submenu-column').dequeue().stop();
-        $('.submenu-column').css({ top: '10px', opacity: '0' });
-
-        for (i = 0; i < $('.submenu-column').length; i++) {
-            $('.submenu-column')
-                .delay(200)
-                .eq(i)
-                .animate({ top: '', opacity: '1' }, 500);
-        }
+        // $('.product-submenu-div').stop().fadeIn(300);
+        // $('.submenu-column').dequeue().stop();
+        // $('.submenu-column').css({ top: '10px', opacity: '0' });
+        // for (i = 0; i < $('.submenu-column').length; i++) {
+        //     $('.submenu-column')
+        //         .delay(200)
+        //         .eq(i)
+        //         .animate({ top: '', opacity: '1' }, 500);
+        // }
     });
 
     $('.top-nav ul li a.level-1')
