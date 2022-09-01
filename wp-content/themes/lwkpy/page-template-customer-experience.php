@@ -256,6 +256,7 @@ $(function() {
         $('.popup-container').fadeOut(0);
         $('.popup-container.' + ele).fadeIn(0);
 
+        $('.logo-list').fadeOut(0);
 
     })
     $('.back-arrow-button').click(function() {
