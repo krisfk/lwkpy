@@ -42,7 +42,7 @@ get_header();
     </div>
 </div>
 
-<div class="container popup-container popup-a-elem8">
+<div class="container popup-container popup-a-elem8 mb-5">
     <div class="client-popup-outer">
 
         <a href="javascript:void(0);" class="back-arrow-button  mt-3 mb-3">
