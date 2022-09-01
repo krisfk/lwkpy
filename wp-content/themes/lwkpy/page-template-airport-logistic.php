@@ -120,7 +120,7 @@ get_header();
     </div>
 </div>
 
-<div class="container mt-5">
+<div class="container mt-5 d-none">
 
     <div class="row gx-0">
 
