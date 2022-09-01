@@ -124,7 +124,7 @@ get_header();
 
     <div class="row gx-0">
 
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
 
             <table class="plane-album-fotos-table">
                 <tr>
@@ -143,7 +143,7 @@ get_header();
                 </tr>
             </table>
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
             <table class="plane-album-fotos-table">
                 <tr>
                     <td>
@@ -161,7 +161,7 @@ get_header();
                 </tr>
             </table>
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
             <table class="plane-album-fotos-table">
                 <tr>
                     <td>
@@ -179,7 +179,7 @@ get_header();
                 </tr>
             </table>
         </div>
-        <div class="col-6">
+        <div class="col-lg-6 col-md-6 col-sm-12 col-12">
             <table class="plane-album-fotos-table">
                 <tr>
                     <td>
