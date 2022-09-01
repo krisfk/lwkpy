@@ -1886,7 +1886,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 
 .plane-album-fotos-table td a {
     display: block;
-    border-radius: 1rem;
+    border-radius: 5px;
     overflow: hidden;
     transition: 0.2s all;
 }
@@ -2078,6 +2078,10 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
         position: relative;
         margin: 0 auto 0px auto;
         padding: 0 0 20px 0;
+    }
+    .plane-album-fotos-table td {
+        vertical-align: middle;
+        padding: 4px;
     }
 }
 
