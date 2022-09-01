@@ -1905,8 +1905,9 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 
 .wing {
     position: absolute;
-    bottom: -90px;
+    bottom: -43px;
     left: 50%;
+    width: 284px;
     transform: translate(-50%, 0px);
 }
 
