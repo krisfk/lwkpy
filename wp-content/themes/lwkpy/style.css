@@ -1916,6 +1916,10 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     max-width: 1000px !important;
 }
 
+.plane-icon-table td {
+    vertical-align: middle;
+}
+
 @media screen and (max-width: 991px) {
     .h-banner-a {
         display: none !important;
