@@ -583,13 +583,13 @@ echo'</li>';
                                 </li>
                                 <li><a href="javascript:void(0);" class="level-1">訂造產品</a>
                                     <ul class="black-top-submenu">
-                                        <li class="cate-title">訂造產品</li>
+                                        <!-- <li class="cate-title">訂造產品</li> -->
                                         <li><a href="/custom-made-products/">自選訂造</a></li>
                                     </ul>
                                 </li>
                                 <li><a href="javascript:void(0);" class="level-1">慈善環保計劃</a>
                                     <ul class="black-top-submenu">
-                                        <li class="cate-title">慈善環保計劃</li>
+                                        <!-- <li class="cate-title">慈善環保計劃</li> -->
                                         <li><a href="/trade-in/">Trade-In</a></li>
                                     </ul>
                                 </li>
