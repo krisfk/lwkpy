@@ -18,6 +18,7 @@
 <head>
     <!-- Google Tag Manager -->
     <script>
+    console.log(999);
     (function(w, d, s, l, i) {
         w[l] = w[l] || [];
         w[l].push({
