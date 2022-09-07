@@ -177,7 +177,7 @@ $post_slug = $post->post_name;
 if(count($menu_item['children']))
 {
 //    
-    echo '<li class="product-list-btn-li"><a class="level-1 abc';
+    echo '<li><a class="level-1';
  
     if(is_page())
     {
@@ -215,7 +215,7 @@ if(count($menu_item['children']))
 }
 else
 {
-echo '<li class="'.$slug.'"><a class="';
+echo '<li class="'.($slug ? $slug : 'test' ) .'"><a class="';
 
 echo 'level-1 '.$class;
 
