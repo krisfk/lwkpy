@@ -2079,7 +2079,14 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
     background: #f8b83c;
 }
 
+.product-submenu-li {
+    display: none;
+}
+
 @media screen and (max-width: 991px) {
+    .product-submenu-li {
+        display: block;
+    }
     .black-top-nav {
         display: none;
     }
