@@ -477,7 +477,7 @@ if(count($menu_item['children']))
 }
 else
 {
-echo '<li class="'.($slug?$slug:'fdsf').'"><a class="';
+echo '<li class="'.($slug?$slug:'product-submenu-li').'"><a class="';
 
 echo 'level-1 '.$class;
 
