@@ -2080,7 +2080,7 @@ div.wpforms-container-full .wpforms-form .wpforms-field-row.wpforms-field-medium
 }
 
 .product-submenu-li {
-    display: none;
+    display: none !important;
 }
 
 @media screen and (max-width: 991px) {
